@@ -58,13 +58,13 @@
       news: [['https://www.packers.com/rss/news', 'Packers.com']] },
     // College basketball: Marquette at Fiserv Forum, UWM at the Panther Arena —
     // the games come from the rooms' Ticketmaster listings; their seasons are
-    // empty on ESPN until November, so no Teams tab yet (strip: false)
+    // empty on ESPN until November, so no Teams tab yet (strip: false was set 2026-10-11 (lifted the same night: schedules.mjs now merges the regular season for college basketball))
     { slug: 'marquette', label: 'Marquette', name: 'Marquette Golden Eagles', abbr: 'MARQ', re: /marquette/i, sport: 'basketball', venue: 'Fiserv Forum', colors: ['#003366', '#ffcc00'],
-      strip: false, espn: { sport: 'basketball', league: 'mens-college-basketball', id: '269' }, season: { kind: 'espn' }, form: { kind: 'espn' },
+      espn: { sport: 'basketball', league: 'mens-college-basketball', id: '269' }, season: { kind: 'espn' }, form: { kind: 'espn' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/269.png', schedule: 'https://gomarquette.com/sports/mens-basketball/schedule',
       club: 'Marquette Golden Eagles', opens: 'November', wiki: { title: "Marquette Golden Eagles men's basketball", teamPage: true } },
     { slug: 'panthers', label: 'Panthers', name: 'Milwaukee Panthers', abbr: 'MILW', re: /milwaukee panthers|uwm panthers|\bpanthers\b/i, sport: 'basketball', venue: 'UW–Milwaukee Panther Arena', colors: ['#000000', '#ffc20e'],
-      strip: false, espn: { sport: 'basketball', league: 'mens-college-basketball', id: '270' }, season: { kind: 'espn' }, form: { kind: 'espn' },
+      espn: { sport: 'basketball', league: 'mens-college-basketball', id: '270' }, season: { kind: 'espn' }, form: { kind: 'espn' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/270.png', schedule: 'https://mkepanthers.com/sports/mens-basketball/schedule',
       club: 'Milwaukee Panthers', opens: 'November', wiki: { title: "Milwaukee Panthers men's basketball", teamPage: true } },
   ];
