@@ -1,0 +1,9 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "bucks": "The Bucks' season runs late October to April at Fiserv Forum, 41 home dates, with the play-in and the playoffs beyond that.",
+  "brewers": "Spring training opens in Phoenix in February and the regular season in late March at American Family Field; the schedule above fills in once MLB publishes it.",
+  "admirals": "The Admirals' AHL season runs October to April at the Panther Arena, 36 home dates, with the Calder Cup playoffs beyond that.",
+  "packers": "The Packers' season runs September to January at Lambeau Field in Green Bay, with the playoffs beyond that; flex-week kickoffs fill in above as the league confirms them.",
+  "marquette": "Marquette's season runs November to March at Fiserv Forum, with the Big East tournament and the NCAA tournament beyond that; the schedule arrives in the autumn.",
+  "panthers": "The Panthers' season runs November to March at the Panther Arena, with the Horizon League tournament beyond that; the schedule arrives in the autumn."
+}
