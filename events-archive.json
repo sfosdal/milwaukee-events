@@ -1,3 +1,29 @@
 {
- "events": []
+ "events": [
+  {
+   "venue": "American Family Field",
+   "title": "Los Angeles Dodgers at Milwaukee Brewers: NLCS (Home Game 2)",
+   "date": "2026-10-12",
+   "time": "16:00:00",
+   "url": "https://www.mlb.com/brewers/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FOX / FOX ONE"
+    ],
+    "radio": [
+     "ESPN Radio",
+     "WTMJ 620"
+    ]
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "Earl Sweatshirt w/ MIKE",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "http://www.thecomplexslc.com",
+   "type": "concert"
+  }
+ ]
 }
