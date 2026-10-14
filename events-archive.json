@@ -24,6 +24,22 @@
    "time": "19:00:00",
    "url": "http://www.thecomplexslc.com",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Robin Trower",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "DERAPS",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/deraps-shank-hall-tickets/14255374",
+   "type": "concert"
   }
  ]
 }
