@@ -40,6 +40,37 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/deraps-shank-hall-tickets/14255374",
    "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Chicago Bulls",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-chicago-bulls-milwaukee-wisconsin-10-14-2026/event/07006507EAFDDBB7",
+   "type": "sports"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Jazz At Lincoln Center Orchestra",
+   "date": "2026-10-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jazz-at-lincoln-center-orchestra-milwaukee-wisconsin-10-14-2026/event/0700651F9CA120EE",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Stanley Simmons",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Hey, Nothing ??? The Hound Tour",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
   }
  ]
 }
