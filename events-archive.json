@@ -71,6 +71,30 @@
    "time": "20:00:00",
    "url": "https://www.therave.com/main.asp",
    "type": "concert"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Jazz At Lincoln Center Orchestra",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jazz-at-lincoln-center-orchestra-milwaukee-wisconsin-10-15-2026/event/0700651F9C9D20EA",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Undertale Symphony",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Joe Stamm",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/joe-stamm-shank-hall-tickets/14217154",
+   "type": "concert"
   }
  ]
 }
