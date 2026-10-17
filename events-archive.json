@@ -95,6 +95,76 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/joe-stamm-shank-hall-tickets/14217154",
    "type": "concert"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Colorado Eagles",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-colorado-eagles-milwaukee-wisconsin-10-16-2026/event/07006515F86BE0D8",
+   "type": "sports"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Florentine Opera: La Traviata",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/florentine-opera-la-traviata-milwaukee-wisconsin-10-16-2026/event/07006457A8365CC8",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Ben Schwartz",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "W.A.S.P.",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Dadi Freyr",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "AFI",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Will Dempsey",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/will-dempsey-shank-hall-tickets/14272624",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "The Toxhards",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://xrayarcade.com/"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Slayground Mke Presents: Blood Ball - Ages 18+",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/"
   }
  ]
 }
