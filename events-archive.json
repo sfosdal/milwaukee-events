@@ -233,6 +233,38 @@
    "date": "2026-10-17",
    "time": "21:00:00",
    "url": "https://www.themiramartheatre.com/"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Florentine Opera: La Traviata",
+   "date": "2026-10-18",
+   "time": "14:30:00",
+   "url": "https://www.ticketmaster.com/florentine-opera-la-traviata-milwaukee-wisconsin-10-18-2026/event/07006459A588BC8A",
+   "type": "arts"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Roger Clyne and The Peacemakers",
+   "date": "2026-10-18",
+   "time": "15:00:00",
+   "url": "https://www.ticketweb.com/event/roger-clyne-and-the-peacemakers-shank-hall-tickets/14166944",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Big Head Todd & the Monsters",
+   "date": "2026-10-18",
+   "time": "19:30:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Christone Ingram",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org",
+   "type": "concert"
   }
  ]
 }
