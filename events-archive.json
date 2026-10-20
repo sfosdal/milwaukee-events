@@ -265,6 +265,38 @@
    "time": "20:00:00",
    "url": "https://pabsttheater.org",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Indigo Girls w/ Linda Perry",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Beat",
+   "date": "2026-10-19",
+   "time": "19:30:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Lords of Acid",
+   "date": "2026-10-19",
+   "time": "19:30:00",
+   "url": "https://www.pabsttheatergroup.com/events/detail/lords-of-acid-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Duane Betts & Palmetto Motel",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/duane-betts-palmetto-motel-shank-hall-tickets/14849103",
+   "type": "concert"
   }
  ]
 }
