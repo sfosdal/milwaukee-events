@@ -297,6 +297,45 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/duane-betts-palmetto-motel-shank-hall-tickets/14849103",
    "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "My Hero Academia in Concert",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "movie"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-10-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-10-20-2026/event/0700652FBE0043B6"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-20-2026/event/070064D7D01169AB",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Dogstar",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Seth Walker",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/seth-walker-shank-hall-tickets/14273334",
+   "type": "concert"
   }
  ]
 }
