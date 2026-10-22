@@ -193,9 +193,9 @@
       type: 'concert',
       cssVar: '--v-amphitheater',
       color: '#e186ea',
-      url: 'https://www.summerfest.com/amphitheater/',
+      url: 'https://www.summerfest.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.summerfest.com&sz=128',
-      tm: { id: 'KovZpZAJeenA', match: 'american family insurance amphitheater', fallbackUrl: 'https://www.summerfest.com/amphitheater/', exclude: /parking/i },
+      tm: { id: 'KovZpZAJeenA', match: 'american family insurance amphitheater', fallbackUrl: 'https://www.summerfest.com/', exclude: /parking/i },
       alias: /american family insurance amphitheat|marcus amphitheat/i,
     },
     'BMO Pavilion': {
