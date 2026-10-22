@@ -336,6 +336,45 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/seth-walker-shank-hall-tickets/14273334",
    "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-10-21-2026/event/0700652FBE0543BB"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-21-2026/event/070064D7D01769B1",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Sylvan Esso",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Ryan Bingham w/ The Texas Gentlemen",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Windborne",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/windborne-shank-hall-tickets/14196254",
+   "type": "concert"
   }
  ]
 }
