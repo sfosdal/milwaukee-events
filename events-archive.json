@@ -375,6 +375,39 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/windborne-shank-hall-tickets/14196254",
    "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-10-22-2026/event/0700652FBE0C43BF"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-22-2026/event/070064D7D01C69BD",
+   "type": "arts"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Marshall Charloff & The Purple Xperience",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/marshall-charloff-the-purple-xperience-milwaukee-wisconsin-10-22-2026/event/070060CABD2F2289",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:08.582Z"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Randy Feltface",
+   "date": "2026-10-22",
+   "time": "21:30:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "arts"
   }
  ]
 }
