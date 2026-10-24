@@ -408,6 +408,93 @@
    "time": "21:30:00",
    "url": "https://www.pabsttheatergroup.com/venues/vivarium",
    "type": "arts"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Chicago Bulls",
+   "date": "2026-10-23",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-chicago-bulls-milwaukee-wisconsin-10-23-2026/event/07006507EB08DBD1",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "American Family Field",
+   "title": "Tampa Bay Rays at Milwaukee Brewers: World Series (Home Game 1)",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.mlb.com/brewers/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FOX / FOX ONE"
+    ],
+    "radio": [
+     "ESPN Radio",
+     "WTMJ 620"
+    ]
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "The Wrecks - Finally : OUTSIDE Tour",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "The WURKestra",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.themiramartheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-23-2026/event/070064D7D02269C1",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Widespread Panic",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Prince Daddy and The Hyena",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Rod Tuffcurls and The Bench Press",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Zacarias Ferreira",
+   "date": "2026-10-23",
+   "time": "20:30:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
   }
  ]
 }
