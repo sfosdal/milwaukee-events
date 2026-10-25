@@ -495,6 +495,92 @@
    "time": "20:30:00",
    "url": "https://www.therave.com/main.asp",
    "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-24",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-24-2026/event/070064D7D02E69C8",
+   "type": "arts"
+  },
+  {
+   "venue": "American Family Field",
+   "title": "Tampa Bay Rays at Milwaukee Brewers: World Series (Home Game 2)",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.mlb.com/brewers/schedule",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "FOX / FOX ONE"
+    ],
+    "radio": [
+     "ESPN Radio",
+     "WTMJ 620"
+    ]
+   }
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Milo Rossi - Ages 13+",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-10-24-2026/event/0700652FBDF543AC"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-24-2026/event/070064D7D02869C4",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Widespread Panic",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Zoso The Ultimate Led Zeppelin Experience",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Dylan Scott",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "In Her Own Words x Every Avenue",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/in-her-own-words-x-shank-hall-tickets/14919153",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Control Room Vol. 4 [Halloween Edition]",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/"
   }
  ]
 }
