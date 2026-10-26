@@ -89,6 +89,7 @@
   var VENUES = {
     // --- Downtown and the stadiums: the Deer District, the ballpark, the Marcus Center, the lakefront stages ---
     'Fiserv Forum': {
+      geo: [43.04228, -87.9169],
       capacity: 17341,
       type: 'sports',
       cssVar: '--v-fiserv',
@@ -99,6 +100,7 @@
       alias: /fiserv forum/i,
     },
     'American Family Field': {
+      geo: [43.02795, -87.9715],
       capacity: 41900,
       type: 'sports',
       cssVar: '--v-amfam',
@@ -109,6 +111,7 @@
       alias: /american family field|miller park/i,
     },
     'UW–Milwaukee Panther Arena': {
+      geo: [43.04167, -87.91687],
       capacity: 12700,
       type: 'sports',
       cssVar: '--v-panther',
@@ -119,6 +122,7 @@
       alias: /panther arena/i,
     },
     'Miller High Life Theatre': {
+      geo: [43.04226, -87.9175],
       capacity: 4086,
       type: 'concert',
       cssVar: '--v-mhl',
@@ -129,6 +133,7 @@
       alias: /miller high life theat|milwaukee theatre/i,
     },
     'Riverside Theater': {
+      geo: [43.03878, -87.91099],
       capacity: 2450,
       type: 'concert',
       cssVar: '--v-riverside',
@@ -139,6 +144,7 @@
       alias: /riverside theat/i,
     },
     'Pabst Theater': {
+      geo: [43.04111, -87.91042],
       capacity: 1345,
       type: 'concert',
       cssVar: '--v-pabst',
@@ -149,6 +155,7 @@
       alias: /pabst theat/i,
     },
     'Uihlein Hall': {
+      geo: [43.04263, -87.91168],
       capacity: 2305,
       type: 'arts',
       cssVar: '--v-uihlein',
@@ -159,6 +166,7 @@
       alias: /uihlein hall/i,
     },
     'Todd Wehr Theater': {
+      geo: [43.0454, -87.8981],
       capacity: 500,
       type: 'arts',
       cssVar: '--v-wehr',
@@ -169,6 +177,7 @@
       alias: /todd wehr/i,
     },
     'Wilson Theater at Vogel Hall': {
+      geo: [43.04263, -87.91168],
       capacity: 500,
       type: 'arts',
       cssVar: '--v-vogel',
@@ -179,6 +188,7 @@
       alias: /vogel hall|wilson theat/i,
     },
     'Bradley Symphony Center': {
+      geo: [43.03921, -87.91368],
       capacity: 1750,
       type: 'arts',
       cssVar: '--v-bradley',
@@ -189,6 +199,7 @@
       alias: /bradley symphony/i,
     },
     'American Family Insurance Amphitheater': {
+      geo: [43.02755, -87.89766],
       capacity: 23000,
       type: 'concert',
       cssVar: '--v-amphitheater',
@@ -199,6 +210,7 @@
       alias: /american family insurance amphitheat|marcus amphitheat/i,
     },
     'BMO Pavilion': {
+      geo: [43.02752, -87.89798],
       capacity: 10000,
       type: 'concert',
       cssVar: '--v-bmo',
@@ -210,6 +222,7 @@
     },
     // --- Music rooms and the rest of town (`area: 'town'`): the Rave, the Pabst group's smaller rooms, the clubs, Cudahy and West Allis ---
     'The Rave': {
+      geo: [43.03807, -87.94331],
       area: 'town',
       capacity: 3500,
       type: 'concert',
@@ -221,6 +234,7 @@
       alias: /the rave|eagles club|eagles ballroom/i,
     },
     'Turner Hall Ballroom': {
+      geo: [43.04378, -87.91552],
       area: 'town',
       capacity: 1000,
       type: 'concert',
@@ -232,6 +246,7 @@
       alias: /turner hall/i,
     },
     'Shank Hall': {
+      geo: [43.04871, -87.89624],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -243,6 +258,7 @@
       alias: /shank hall/i,
     },
     'Cactus Club': {
+      geo: [42.999, -87.89021],
       area: 'town',
       capacity: 200,
       type: 'concert',
@@ -254,6 +270,7 @@
       alias: /cactus club/i,
     },
     'X-Ray Arcade': {
+      geo: [42.95289, -87.85978],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -265,6 +282,7 @@
       alias: /x-?ray arcade/i,
     },
     'Vivarium': {
+      geo: [43.05467, -87.89073],
       area: 'town',
       capacity: 500,
       type: 'concert',
@@ -276,6 +294,7 @@
       alias: /vivarium/i,
     },
     'Miramar Theatre': {
+      geo: [43.07048, -87.88783],
       area: 'town',
       capacity: 400,
       type: 'concert',
@@ -287,6 +306,7 @@
       alias: /miramar theat/i,
     },
     'Wisconsin State Fair Park': {
+      geo: [43.02438, -88.01583],
       area: 'town',
       capacity: 10000,
       type: 'community',
@@ -348,6 +368,17 @@
     ics: { name: 'Milwaukee Events', short: 'Milwaukee Events', teams: 'Milwaukee home teams — every season', prodid: '-//here.events//milwaukee-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Milwaukee\\, WI — Fiserv Forum\\, American Family Field\\, the Panther Arena\\, the Marcus Center and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [42.935, -88.061, 43.088, -87.815], // south, west, north, east — every room, with a margin
+      home: [43.021, -87.99, 43.051, -87.879], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Milwaukee', lat: 43.039, lon: -87.906, anchor: 'middle' },
+        { name: 'Cudahy', lat: 42.95974, lon: -87.86147, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
