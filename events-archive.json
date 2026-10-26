@@ -581,6 +581,62 @@
    "date": "2026-10-24",
    "time": "21:00:00",
    "url": "https://www.themiramartheatre.com/"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Marquette Golden Eagles Men's Basketball vs. Michigan State University Men's Basketball",
+   "date": "2026-10-25",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/marquette-golden-eagles-mens-basketball-vs-milwaukee-wisconsin-10-25-2026/event/07006534354D9316",
+   "type": "sports"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Chicago Wolves",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-chicago-wolves-milwaukee-wisconsin-10-25-2026/event/07006515F875E0E7",
+   "type": "sports"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-25-2026/event/070064D7D03A69CE",
+   "type": "arts"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Jersey Boys (Touring)",
+   "date": "2026-10-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-touring-milwaukee-wisconsin-10-25-2026/event/070064D7D03469CC",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Widespread Panic",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Twiztid",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "She Wants Revenge",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
   }
  ]
 }
