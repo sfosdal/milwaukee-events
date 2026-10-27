@@ -637,6 +637,38 @@
    "time": "20:00:00",
    "url": "https://www.therave.com/main.asp",
    "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Indiana Pacers",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-indiana-pacers-milwaukee-wisconsin-10-26-2026/event/07006507EB0EDBDC",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "Spite w/ Stick To Your Guns",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.therave.com/main.asp",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Wolfman Jack",
+   "date": "2026-10-26",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/wolfman-jack-shank-hall-tickets/14979333",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:08.582Z"
   }
  ]
 }
