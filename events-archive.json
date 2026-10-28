@@ -669,6 +669,37 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-12T01:47:08.582Z"
+  },
+  {
+   "venue": "American Family Field",
+   "title": "Brewers World Series Watch Party: Game 4",
+   "date": "2026-10-27",
+   "time": "17:00:00",
+   "url": "https://www.mlb.com/brewers/schedule"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": " Nosferatu Undead",
+   "date": "2026-10-27",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/-nosferatu-undead-shank-hall-tickets/14253924",
+   "type": "concert"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "The Parables Tour with Father Mike Schmitz",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Old Crow Medicine Show",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
   }
  ]
 }
