@@ -1,6 +1,14 @@
 {
  "events": [
   {
+   "venue": "Cactus Club",
+   "title": "Gyedu-Blay Ambolley",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/gyedu-blay-ambolley-2/",
+   "type": "concert"
+  },
+  {
    "venue": "American Family Field",
    "title": "Los Angeles Dodgers at Milwaukee Brewers: NLCS (Home Game 2)",
    "date": "2026-10-12",
@@ -699,6 +707,86 @@
    "date": "2026-10-27",
    "time": "20:00:00",
    "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "R&B Tuesday",
+   "date": "2026-10-27",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/rb-tuesday/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Blue October",
+   "date": "2026-10-28",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/blue-october-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Videovomit Presents: A Nightmare On Elm Street",
+   "date": "2026-10-28",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/10/28/anightmareonelmstreet",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Trash Kickers • Home Going • Eric Blowtorch",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/trash-kickers-home-going-eric-blowtorch/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Houston Rockets",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-houston-rockets-milwaukee-wisconsin-10-28-2026/event/07006507EB13DBE8",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Manitoba Moose",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-manitoba-moose-milwaukee-wisconsin-10-28-2026/event/07006515F87CE100",
+   "type": "sports"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Blue October",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Angel",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/angel-shank-hall-tickets/14255864",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:08.582Z"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Hot Ghouls Halloween",
+   "date": "2026-10-28",
+   "time": "20:30",
+   "url": "https://themiramartheatre.com/event/hot-ghouls-halloween/",
    "type": "concert"
   }
  ]
