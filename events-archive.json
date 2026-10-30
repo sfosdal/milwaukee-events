@@ -788,6 +788,70 @@
    "time": "20:30",
    "url": "https://themiramartheatre.com/event/hot-ghouls-halloween/",
    "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "RØZ Presents: SE Está Haciendo Tarde",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://www.therave.com/concert_details.asp?id=8373",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Rehash",
+   "date": "2026-10-29",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/rehash-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Stacked Like Pancakes / Space Monkey Mafia / Something to Do / Courtesy of Tim",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/10/29/skalloween",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Sweeping Promises • Youth Energy • Brief Candles",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/sweeping-promises/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "New Constellations",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8390",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Shakey Graves w/ Wild Pink",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Delicate Steve",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/delicate-steve-shank-hall-tickets/14966633",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Fright Night",
+   "date": "2026-10-29",
+   "time": "21:30",
+   "url": "https://themiramartheatre.com/event/fright-night/",
+   "type": "concert"
   }
  ]
 }
