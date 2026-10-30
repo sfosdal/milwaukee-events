@@ -97,7 +97,7 @@
       url: 'https://www.fiservforum.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.fiservforum.com&sz=128',
       tm: { id: 'KovZ917A_fV', match: 'fiserv forum', fallbackUrl: 'https://www.fiservforum.com/events', exclude: /parking|(?:arena|fiserv forum|building) tours?|fan pass|court pass|replica game ball|\bpackages?\b/i }, // anchored to the arena's own add-ons: a bare /tour/ had dropped every "… Tour" concert (Jonas Brothers, Nickelback, DWTS — 2026-10-27)
-      feed: { kind: 'cards', secondary: true, url: 'https://www.fiservforum.com/events/all', item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, drop: /^milwaukee bucks$|marquette|parking|\btours?\b|\bpackages?\b/i }, // the arena's own listing (Carbonhouse cards: a date, no clock; the Bucks and Marquette season rows dropped — the games come from the Teams schedules), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.fiservforum.com/events/all', chrome: true, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, drop: /^milwaukee bucks$|marquette|parking|\btours?\b|\bpackages?\b/i }, // the arena's own listing (Carbonhouse cards: a date, no clock; the Bucks and Marquette season rows dropped — the games come from the Teams schedules), secondary behind Ticketmaster (2026-10-27)
       alias: /fiserv forum/i,
     },
     'American Family Field': {
@@ -144,7 +144,7 @@
       url: 'https://www.pabsttheatergroup.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
       tm: { id: 'KovZpZA1IdeA', match: 'riverside', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', venues: /riverside theater/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /riverside theater/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /riverside theat/i,
     },
     'Pabst Theater': {
@@ -156,7 +156,7 @@
       url: 'https://www.pabsttheatergroup.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
       tm: { id: 'KovZpZAal6EA', match: 'pabst', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', venues: /^the pabst theater$/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /^the pabst theater$/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /pabst theat/i,
     },
     'Uihlein Hall': {
@@ -254,7 +254,7 @@
       url: 'https://www.pabsttheatergroup.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
       tm: { id: 'KovZpZA1I6lA', match: 'turner hall', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', venues: /turner hall/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /turner hall/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /turner hall/i,
     },
     'Shank Hall': {
@@ -306,7 +306,7 @@
       url: 'https://www.pabsttheatergroup.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
       tm: { id: 'KovZ917ASYq', match: 'vivarium', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', venues: /vivarium/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /vivarium/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /vivarium/i,
     },
     'Miramar Theatre': {
