@@ -852,6 +852,100 @@
    "time": "21:30",
    "url": "https://themiramartheatre.com/event/fright-night/",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Daniel Donato's Cosmic Country: Donato's Inferno",
+   "date": "2026-10-30",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/ddcc-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "American Family Insurance Amphitheater",
+   "title": "Milwaukee Brewers Championship Celebration",
+   "date": "2026-10-30",
+   "time": "09:30:00",
+   "url": "https://www.ticketmaster.com/milwaukee-brewers-championship-celebration-milwaukee-wisconsin-10-30-2026/event/0700655BD7306983"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Bullshit Nonsense / Siniu / Kittens??Kittens!! / Chaos Breeds Chaos",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/10/30/bullshitnonsense",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Stomach Book • Blind Equation • Vialice • i h8 it here • BussyKweenPowerTrip",
+   "date": "2026-10-30",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/stomach_book/",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Sugar Skull",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://www.marcuscenter.org/event/sugar-skull/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Galantis",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8436",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Akeem Ali",
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "url": "https://www.deccalive.com/"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Emo Nite",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8433",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "TVBOO [Night 1] w/ Twopercent, Ozztin",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/tvboo-twopercent-ozztin/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "TVBOO",
+   "date": "2026-10-30",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "It’s A 2000’s Party",
+   "date": "2026-10-30",
+   "time": "21:30",
+   "url": "https://www.therave.com/concert_details.asp?id=8438",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Project X",
+   "date": "2026-10-30",
+   "time": "22:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8475",
+   "type": "concert"
   }
  ]
 }
