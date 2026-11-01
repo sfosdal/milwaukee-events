@@ -946,6 +946,117 @@
    "time": "22:00",
    "url": "https://www.therave.com/concert_details.asp?id=8475",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Daniel Donato's Cosmic Country: Donato's Inferno",
+   "date": "2026-10-31",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/ddcc-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Club Slayyy: Slayyyter + Hyperpop Halloween Party 🎃",
+   "date": "2026-10-31",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/club-slayyy-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Riso Basics with BearBear",
+   "date": "2026-10-31",
+   "time": "09:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/riso-basics-with-bearbear-2-2-2-2-2-2-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Trapper Schoepp's tribute to Tom Petty",
+   "date": "2026-10-31",
+   "time": "15:00:00",
+   "url": "https://www.ticketweb.com/event/trapper-schoepps-tribute-to-tom-shank-hall-tickets/14301774",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:08.582Z"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Cleveland Cavaliers",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-cleveland-cavaliers-milwaukee-wisconsin-10-31-2026/event/07006507EB19DBF3",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "The Paradox",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8380",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Screamoween",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://shankhall.com/shows/738/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Outlander in Concert",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Perreo-ween Reggaeton Halloween Party",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8311",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "2026 Halloween Spooktacular",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://xrayarcade.com/calendar/2026/10/31/halloweenspooktacular",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "TVBOO [Night 2] w/ Mport, Twopercent b2b Ozztin",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/tvboo-mport/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "TVBOO",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Gabberland – Nonirar • r3algrl • Sero • DJ Maya",
+   "date": "2026-10-31",
+   "time": "23:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/gabberland-nonirar-r3algrl-sero-dj-maya/",
+   "type": "concert"
   }
  ]
 }
