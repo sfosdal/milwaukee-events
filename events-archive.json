@@ -1057,6 +1057,62 @@
    "time": "23:00",
    "url": "https://www.cactusclubmilwaukee.com/events/gabberland-nonirar-r3algrl-sero-dj-maya/",
    "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Rocky Horror Picture Show: Original Cast Spooktacular!",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/rhps-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Chris Webby: Webby's Arcade Tour",
+   "date": "2026-11-01",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/chris-webby-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Warren Miller's Days Off",
+   "date": "2026-11-01",
+   "time": "17:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "movie"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Sold Out! Big Ass Truck I.E. / Chamber / Mugshot / Surfaced / Backstabber",
+   "date": "2026-11-01",
+   "time": "17:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/01/bigasstruck",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Archer Oh • Integra Pink • Mala Mala",
+   "date": "2026-11-01",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/archer-oh-integra-pink/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+   "date": "2026-11-01",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-milwaukee-wisconsin-11-01-2026/event/0700650DFC2127EB",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Sophie Hunter",
+   "date": "2026-11-01",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/events/detail/sophie-hunter-2026",
+   "type": "concert"
   }
  ]
 }
