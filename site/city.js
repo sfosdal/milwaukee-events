@@ -388,6 +388,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
+      boundary: { osm: 251075 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Milwaukee
       bbox: [42.935, -88.061, 43.088, -87.815], // south, west, north, east — every room, with a margin
       home: [43.021, -87.99, 43.051, -87.879], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
