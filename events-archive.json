@@ -1113,6 +1113,53 @@
    "time": "20:00:00",
    "url": "https://www.pabsttheatergroup.com/events/detail/sophie-hunter-2026",
    "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Radiator Hospital / Noun / Bad Crime",
+   "date": "2026-11-02",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/02/radiatorhospital",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Marquette Golden Eagles Men's Basketball vs. Mercyhurst Lakers Mens Basketball",
+   "date": "2026-11-02",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/marquette-golden-eagles-mens-basketball-vs-milwaukee-wisconsin-11-02-2026/event/0700653435529318",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "Claudio Simonetti's Goblin",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8431",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Free Throw & Microwave",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8391",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Billy Prine presents Songs and Stories of John Prine",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/billy-prine-presents-songs-and-shank-hall-tickets/14216114",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:08.582Z"
   }
  ]
 }
