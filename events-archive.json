@@ -1160,6 +1160,54 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-12T01:47:08.582Z"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "SOMBR",
+   "date": "2026-11-03",
+   "time": "",
+   "url": "https://www.fiservforum.com/events/detail/sombr",
+   "type": "sports"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Ho99o9 / N8NOFACE / Slay Squad",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/03/ho99o9",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "SOMBR - You Are The Reason Tour",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-milwaukee-wisconsin-11-03-2026/event/07006488DF476E7D",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Oldtimer • Rightwards • Oh Well, Okay • Rainbow Cobra",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/oldtimer-rightwards-oh-well-okay-rainbow-cobra/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Adam Ezra Group",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/adam-ezra-group-shank-hall-tickets/14854403",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "R&B Tuesday",
+   "date": "2026-11-03",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/rb-tuesday/",
+   "type": "concert"
   }
  ]
 }
