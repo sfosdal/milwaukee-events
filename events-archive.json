@@ -1208,6 +1208,38 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/rb-tuesday/",
    "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Charlie Parr: Rooming House Fall Tour 2026",
+   "date": "2026-11-04",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/charlie-parr-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Blitzkid / The Grovelers / Ratbatspider",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/04/blitzkid",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Waterparks (night 1)",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8425",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Steve Forbert",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/steve-forbert-shank-hall-tickets/14351454",
+   "type": "concert"
   }
  ]
 }
