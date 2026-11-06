@@ -129,9 +129,9 @@
       type: 'concert',
       cssVar: '--v-mhl',
       color: '#eadd86',
-      url: 'https://www.millerhighlifetheatre.com/events',
+      url: 'https://www.millerhighlifetheatre.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=www.millerhighlifetheatre.com&sz=128',
-      tm: { id: 'KovZpZAdJEnA', match: 'miller high life theatre', fallbackUrl: 'https://www.millerhighlifetheatre.com/events' },
+      tm: { id: 'KovZpZAdJEnA', match: 'miller high life theatre', fallbackUrl: 'https://www.millerhighlifetheatre.com/calendar/' },
       feed: { kind: 'tribe', secondary: true, url: 'https://millerhighlifetheatre.com/wp-json/tribe/events/v1/events' }, // the theatre's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /miller high life theat|milwaukee theatre/i,
     },
