@@ -1240,6 +1240,70 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/steve-forbert-shank-hall-tickets/14351454",
    "type": "concert"
+  },
+  {
+   "venue": "Wisconsin State Fair Park",
+   "title": "Pick ‘n Save, Metro Market, and Mariano’s: Caring for our Communities",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.eventbrite.com/e/pick-n-save-metro-market-and-marianos-caring-for-our-communities-tickets-1999265450782?aff=oddtdtcreator&amp;keep_tld=true",
+   "type": "community"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Sleep: North America 2026",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/sleep-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Taste of Ireland",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/taste-of-ireland-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Brigitte Calls Me Baby – Irreversible Tour",
+   "date": "2026-11-05",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/brigitte-calls-me-baby-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Dent May • Moonglow",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/dent-may/",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Weatherday/ Hey, ILY! / Anita Velveeta",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/05/weatherday",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Waterparks (night 2)",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8426",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Sleep",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
   }
  ]
 }
