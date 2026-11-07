@@ -95,7 +95,7 @@
       cssVar: '--v-fiserv',
       color: '#ea8686',
       url: 'https://www.fiservforum.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.fiservforum.com&sz=128',
+      icon: 'marks/venues/fiservforum.com.png',
       tm: { id: 'KovZ917A_fV', match: 'fiserv forum', fallbackUrl: 'https://www.fiservforum.com/events', exclude: /parking|(?:arena|fiserv forum|building) tours?|fan pass|court pass|replica game ball|\bpackages?\b/i }, // anchored to the arena's own add-ons: a bare /tour/ had dropped every "… Tour" concert (Jonas Brothers, Nickelback, DWTS — 2026-10-27)
       feed: { kind: 'cards', secondary: true, url: 'https://www.fiservforum.com/events/all', chrome: true, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, drop: /^milwaukee bucks$|marquette|parking|\btours?\b|\bpackages?\b/i }, // the arena's own listing (Carbonhouse cards: a date, no clock; the Bucks and Marquette season rows dropped — the games come from the Teams schedules), secondary behind Ticketmaster (2026-10-27)
       alias: /fiserv forum/i,
@@ -107,7 +107,7 @@
       cssVar: '--v-amfam',
       color: '#86eaa3',
       url: 'https://www.mlb.com/brewers/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mlb.com&sz=128',
+      icon: 'marks/venues/mlb.com.png',
       tm: { id: 'KovZpZA1FlkA', match: 'american family field', fallbackUrl: 'https://www.mlb.com/brewers/schedule', exclude: /parking|(?:ballpark|stadium|field) tours?/i }, // anchored to the ballpark's own tours, not every "… Tour" concert (2026-10-27)
       alias: /american family field|miller park/i,
     },
@@ -118,7 +118,7 @@
       cssVar: '--v-panther',
       color: '#c086ea',
       url: 'https://uwmilwaukeepantherarena.com/events-tickets/', // uwmpantherarena.com is a parked domain since 2026 (checked 2026-10-27)
-      icon: 'https://www.google.com/s2/favicons?domain=uwmilwaukeepantherarena.com&sz=128',
+      icon: 'marks/venues/uwmilwaukeepantherarena.com.png',
       tm: { id: 'KovZpZAJ61EA', match: 'panther arena', fallbackUrl: 'https://uwmilwaukeepantherarena.com/events-tickets/', exclude: /parking/i },
       feed: { kind: 'tribe', secondary: true, url: 'https://uwmilwaukeepantherarena.com/wp-json/tribe/events/v1/events', drop: /parking/i }, // the arena's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /panther arena/i,
@@ -130,7 +130,7 @@
       cssVar: '--v-mhl',
       color: '#eadd86',
       url: 'https://www.millerhighlifetheatre.com/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.millerhighlifetheatre.com&sz=128',
+      icon: 'marks/venues/millerhighlifetheatre.com.png',
       tm: { id: 'KovZpZAdJEnA', match: 'miller high life theatre', fallbackUrl: 'https://www.millerhighlifetheatre.com/calendar/' },
       feed: { kind: 'tribe', secondary: true, url: 'https://millerhighlifetheatre.com/wp-json/tribe/events/v1/events' }, // the theatre's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /miller high life theat|milwaukee theatre/i,
@@ -142,7 +142,7 @@
       cssVar: '--v-riverside',
       color: '#86d9ea',
       url: 'https://www.pabsttheatergroup.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
+      icon: 'marks/venues/pabsttheatergroup.com.png',
       tm: { id: 'KovZpZA1IdeA', match: 'riverside', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /riverside theater/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /riverside theat/i,
@@ -154,7 +154,7 @@
       cssVar: '--v-pabst',
       color: '#ea86bc',
       url: 'https://www.pabsttheatergroup.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
+      icon: 'marks/venues/pabsttheatergroup.com.png',
       tm: { id: 'KovZpZAal6EA', match: 'pabst', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /^the pabst theater$/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /pabst theat/i,
@@ -166,7 +166,7 @@
       cssVar: '--v-uihlein',
       color: '#9fea86',
       url: 'https://www.marcuscenter.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.marcuscenter.org&sz=128',
+      icon: 'marks/venues/marcuscenter.org.png',
       tm: { id: 'KovZpZAEAkaA', match: 'uihlein hall', fallbackUrl: 'https://www.marcuscenter.org/events' },
       feed: { kind: 'tribe', secondary: true, url: 'https://www.marcuscenter.org/wp-json/tribe/events/v1/events', venues: /uihlein/i }, // the Marcus Center's own calendar (The Events Calendar), this hall's rows, secondary behind Ticketmaster (2026-10-27)
       alias: /uihlein hall/i,
@@ -178,7 +178,7 @@
       cssVar: '--v-wehr',
       color: '#8a86ea',
       url: 'https://www.marcuscenter.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.marcuscenter.org&sz=128',
+      icon: 'marks/venues/marcuscenter.org.png',
       tm: { id: 'Z7r9jZaAvC', match: 'todd wehr', fallbackUrl: 'https://www.marcuscenter.org/events' },
       feed: { kind: 'tribe', secondary: true, url: 'https://www.marcuscenter.org/wp-json/tribe/events/v1/events', venues: /todd wehr/i }, // the Marcus Center's own calendar (The Events Calendar), this hall's rows, secondary behind Ticketmaster (2026-10-27)
       alias: /todd wehr/i,
@@ -190,7 +190,7 @@
       cssVar: '--v-vogel',
       color: '#eaa786',
       url: 'https://www.marcuscenter.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.marcuscenter.org&sz=128',
+      icon: 'marks/venues/marcuscenter.org.png',
       tm: { id: 'KovZpZAEAk1A', match: 'vogel hall', fallbackUrl: 'https://www.marcuscenter.org/events' },
       feed: { kind: 'tribe', secondary: true, url: 'https://www.marcuscenter.org/wp-json/tribe/events/v1/events', venues: /vogel hall/i }, // the Marcus Center's own calendar (The Events Calendar), this hall's rows, secondary behind Ticketmaster (2026-10-27)
       alias: /vogel hall|wilson theat/i,
@@ -202,7 +202,7 @@
       cssVar: '--v-bradley',
       color: '#86eac4',
       url: 'https://www.mso.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mso.org&sz=128',
+      icon: 'marks/venues/mso.org.jpg',
       tm: { id: 'KovZ917AIWB', match: 'bradley symphony center', fallbackUrl: 'https://www.mso.org/events/' },
       alias: /bradley symphony/i,
     },
@@ -213,7 +213,7 @@
       cssVar: '--v-amphitheater',
       color: '#e186ea',
       url: 'https://www.summerfest.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.summerfest.com&sz=128',
+      icon: 'marks/venues/summerfest.com.png',
       tm: { id: 'KovZpZAJeenA', match: 'american family insurance amphitheater', fallbackUrl: 'https://www.summerfest.com/', exclude: /parking/i },
       feed: { kind: 'cards', secondary: true, url: 'https://www.amfamamp.com/concerts', item: /<div class="row eventItem/, title: /(?=[\s\S]*?<a class="btn[^"]*" href="([^"]+)")<h2 class="eventName">([^<]+)<\/h2>/, when: /<h3 class="eventName">([A-Z][a-z]+ \d{1,2}, \d{4})(?:[^<]*?SHOW(?: TIME)?:?\s*(\d{1,2}(?::\d{2})?\s*[AP]\.?M))?/i }, // the Amphitheater's own concert page (a date line with the show clock; the ticket button is the link), secondary behind Ticketmaster (2026-10-27)
       alias: /american family insurance amphitheat|marcus amphitheat/i,
@@ -225,7 +225,7 @@
       cssVar: '--v-bmo',
       color: '#d5ea86',
       url: 'https://www.summerfest.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.summerfest.com&sz=128',
+      icon: 'marks/venues/summerfest.com.png',
       tm: { id: 'KovZpZAFAEeA', match: 'bmo pavilion', fallbackUrl: 'https://www.summerfest.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.bmopavilion.com/concerts', item: /<div class="row eventItem/, title: /(?=[\s\S]*?<a class="btn[^"]*" href="([^"]+)")<h2 class="eventName">([^<]+)<\/h2>/, when: /<h3 class="eventName">([A-Z][a-z]+ \d{1,2}, \d{4})(?:[^<]*?SHOW(?: TIME)?:?\s*(\d{1,2}(?::\d{2})?\s*[AP]\.?M))?/i }, // the Pavilion's own concert page (a date line with the show clock; the ticket button is the link), secondary behind Ticketmaster (2026-10-27)
       alias: /bmo pavilion|bmo harris pavilion/i,
@@ -239,7 +239,7 @@
       cssVar: '--v-rave',
       color: '#86b7ea',
       url: 'https://www.therave.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.therave.com&sz=128',
+      icon: 'marks/venues/therave.com.png',
       tm: { id: 'KovZpZAFAJdA', match: 'rave', fallbackUrl: 'https://www.therave.com/', secondary: true }, // behind the Rave's own list since 2026-10-27
       feed: { kind: 'cards', url: 'https://www.therave.com/milwaukee_concerts.asp', item: /<article class="rv-flex-home-ev-wrapper/, title: /<a href='(concert_details\.asp\?id=\d+)'[\s\S]*?<span class="rv-home-ev-primary">([^<]+)</, when: /rv-home-ev-longdate">([^<]+)</ }, // the Rave's own concert list — every hall of the Eagles Club ("Friday, December 11, 2026 at 9pm"), leads (2026-10-27)
       alias: /the rave|eagles club|eagles ballroom/i,
@@ -252,7 +252,7 @@
       cssVar: '--v-turner',
       color: '#ea869a',
       url: 'https://www.pabsttheatergroup.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
+      icon: 'marks/venues/pabsttheatergroup.com.png',
       tm: { id: 'KovZpZA1I6lA', match: 'turner hall', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /turner hall/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /turner hall/i,
@@ -265,7 +265,7 @@
       cssVar: '--v-shank',
       color: '#86ea8e',
       url: 'https://www.shankhall.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.shankhall.com&sz=128',
+      icon: 'marks/venues/shankhall.com.png',
       tm: { id: 'KovZpZAFAJeA', match: 'shank hall', fallbackUrl: 'https://www.shankhall.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://shankhall.com/', item: /<div class="playbox">/, title: /(?=[\s\S]*?<a href="(https:\/\/shankhall\.com\/shows\/[^"]+)")<h3>([^<]+)/, when: /<h4><span>([\s\S]*?)<\/span><span class="time-cover">([^<]+)</ }, // the club's own show cards (headliner, "Saturday October 31, 2026", the show clock), secondary behind Ticketmaster (2026-10-27)
       alias: /shank hall/i,
@@ -278,7 +278,7 @@
       cssVar: '--v-cactus',
       color: '#ab86ea',
       url: 'https://cactusclubmilwaukee.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=cactusclubmilwaukee.com&sz=128',
+      icon: 'marks/venues/cactusclubmilwaukee.com.png',
       tm: { id: 'KovZpZAE66IA', match: 'cactus club', fallbackUrl: 'https://cactusclubmilwaukee.com/', secondary: true }, // behind the club's own list since 2026-10-27
       feed: { kind: 'cards', url: 'https://www.cactusclubmilwaukee.com/', item: /<div class="eventEntryInner">/, title: /<div class="eventTitle">[\s\S]*?<h2><a href="([^"]+)"[^>]*>([^<]+)</, when: /eventTime">\s*([^<]+)<[\s\S]*?venuepilot\.com\/e\/[^"]*?(\d{4}-\d{2}-\d{2})/, drop: /workshop|\bclass\b/i }, // the club's own list, leads: the date is read from the Venuepilot ticket link (the cards print M/D/YY only, so a door-only show without one is not read) (2026-10-27)
       alias: /cactus club/i,
@@ -291,7 +291,7 @@
       cssVar: '--v-xray',
       color: '#eac886',
       url: 'https://xrayarcade.com/calendar', // x-rayarcade.com is a parked domain (checked 2026-10-27)
-      icon: 'https://www.google.com/s2/favicons?domain=xrayarcade.com&sz=128',
+      icon: 'marks/venues/xrayarcade.com.png',
       tm: { id: 'KovZpa8KXe', match: 'x-ray arcade', fallbackUrl: 'https://xrayarcade.com/calendar', secondary: true }, // two rows on Ticketmaster; behind the club's own calendar since 2026-10-27
       feed: { kind: 'squarespace', url: 'https://xrayarcade.com/calendar', drop: /^@ / }, // the club's own Squarespace calendar, leads; its nights at other bars ("@ Sugar Maple: …") dropped (2026-10-27)
       alias: /x-?ray arcade/i,
@@ -304,7 +304,7 @@
       cssVar: '--v-vivarium',
       color: '#86eae6',
       url: 'https://www.pabsttheatergroup.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pabsttheatergroup.com&sz=128',
+      icon: 'marks/venues/pabsttheatergroup.com.png',
       tm: { id: 'KovZ917ASYq', match: 'vivarium', fallbackUrl: 'https://www.pabsttheatergroup.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.pabsttheatergroup.com/events/all', chrome: true, venues: /vivarium/i, item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)" title="More Info">([^<]+)</, when: /<div class="date" aria-label="([^"]+)"/, place: /class="location"[^>]*>([^<]+)</ }, // the Pabst Theater Group's own listing (Carbonhouse cards: a date and the venue, no clock), this venue's cards, secondary behind Ticketmaster (2026-10-27)
       alias: /vivarium/i,
@@ -317,7 +317,7 @@
       cssVar: '--v-miramar',
       color: '#ea86d0',
       url: 'https://www.themiramartheatre.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.themiramartheatre.com&sz=128',
+      icon: 'marks/venues/themiramartheatre.com.png',
       tm: { id: 'KovZpZAalInA', match: 'miramar', fallbackUrl: 'https://www.themiramartheatre.com/' },
       feed: { kind: 'mec', secondary: true, url: 'https://themiramartheatre.com/events/', venues: /miramar/i }, // the theatre's own Modern Events Calendar list, secondary behind Ticketmaster (2026-10-27)
       alias: /miramar theat/i,
@@ -330,7 +330,7 @@
       cssVar: '--v-statefair',
       color: '#b3ea86',
       url: 'https://wistatefair.com/wsfp/upcoming-events/', // the park's year-round calendar (the /fair/events/ page is the fair's own daily schedule, stale since 2023)
-      icon: 'https://www.google.com/s2/favicons?domain=wistatefair.com&sz=128',
+      icon: 'marks/venues/wistatefair.com.png',
       tm: { id: 'KovZpZAIAnFA', match: 'state fair', fallbackUrl: 'https://wistatefair.com/wsfp/upcoming-events/', exclude: /parking/i, secondary: true }, // nothing listed on Ticketmaster; behind the park's own calendar since 2026-10-27
       feed: { kind: 'tribe', url: 'https://wistatefair.com/wsfp/wp-json/tribe/events/v1/events' }, // the park's own calendar (The Events Calendar): the expo shows, the Folk Fair, the Fair itself, IndyCar — all-day rows (2026-10-27)
       alias: /state fair/i,
