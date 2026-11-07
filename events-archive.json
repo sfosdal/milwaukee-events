@@ -1304,6 +1304,155 @@
    "time": "20:00:00",
    "url": "https://pabsttheater.org/",
    "type": "concert"
+  },
+  {
+   "venue": "Wisconsin State Fair Park",
+   "title": "The Great Junk Hunt",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.thegreatjunkhunt.com/markets/milwaukee-wi-vintage-market",
+   "type": "community"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Napoleon Dynamite LIVE! 20th Anniversary Celebration",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/napoleon-dynamite-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
+   "date": "2026-11-06",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/ax-and-the-hatchetmen-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Devil's Teeth / The Leg Hounds / Fret Rattles / Cone Earth",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/06/devilsteeth",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Tsuchi • Keylime • *Aya • Ripley",
+   "date": "2026-11-06",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/tsuchi-keylime-aya-ripley/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Toronto Raptors",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-toronto-raptors-milwaukee-wisconsin-11-06-2026/event/07006507EB1FDC01",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Mojo Brookzz",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Napoleon Dynamite w/ Jon Heder",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "Goose",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Milwaukee Ballet Presents: Mirror Mirror",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/milwaukee-ballet-presents-mirror-mirror-milwaukee-wisconsin-11-06-2026/event/070064D7BEF05C44",
+   "type": "arts"
+  },
+  {
+   "venue": "Bradley Symphony Center",
+   "title": "Dolly Parton???s Threads: My Songs in Symphony w/ Milwaukee Symphony Orchestra",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.mso.org/concerts/calendar/"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Trippie Redd",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8457",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Colby Acuff",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8394",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Waterparks (night 3)",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8428",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Davy Knowles",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/davy-knowles-shank-hall-tickets/14308164",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Brigitte Calls Me Baby",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Double Drop 🔊🔊",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/double-drop-5/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Choke Chain • Anteeter • RX Cowboy + Normal Writing • Speedy Muffler",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/choke-chain-anteeter-rx-cowboy-normal-writing-speedy-muffler/",
+   "type": "concert"
   }
  ]
 }
