@@ -1453,6 +1453,133 @@
    "time": "22:00",
    "url": "https://www.cactusclubmilwaukee.com/events/choke-chain-anteeter-rx-cowboy-normal-writing-speedy-muffler/",
    "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Joey Diaz: 62 & Still Slinging",
+   "date": "2026-11-07",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/joey-diaz-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Better Than Ezra presents Legends of the Fall: Closer to the Edge Tour",
+   "date": "2026-11-07",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/better-than-ezra-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "La Mariposa Vegan Comfort Food Pop-Up",
+   "date": "2026-11-07",
+   "time": "11:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/07/vegan",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Milwaukee Ballet Presents: Mirror Mirror",
+   "date": "2026-11-07",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-ballet-presents-mirror-mirror-milwaukee-wisconsin-11-07-2026/event/070064D7BEFA5C53",
+   "type": "arts"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Iowa Wild",
+   "date": "2026-11-07",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-iowa-wild-milwaukee-wisconsin-11-07-2026/event/07006515F882E10A",
+   "type": "sports"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Axis: Sova • Brindled • Royal Jelly",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/axis-sova-royal-jelly/",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Passengers / Psithurism / Sacrament",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/07/passengers",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Joey Diaz - Ages 21+",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rave",
+   "title": "The Maine",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://www.therave.com/concert_details.asp?id=8336",
+   "type": "concert"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "Goose",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Milwaukee Ballet Presents: Mirror Mirror",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/milwaukee-ballet-presents-mirror-mirror-milwaukee-wisconsin-11-07-2026/event/070064D7BEF55C4A",
+   "type": "arts"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Wish You Were Floyd",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/wish-you-were-floyd-milwaukee-wisconsin-11-07-2026/event/07006505D2477D27",
+   "type": "arts"
+  },
+  {
+   "venue": "Bradley Symphony Center",
+   "title": "Dolly Parton???s Threads: My Songs in Symphony w/ Milwaukee Symphony Orchestra",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.mso.org/concerts/calendar/"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Matt Rife: Stay Golden World Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/matt-rife-stay-golden-world-tour-milwaukee-wisconsin-11-07-2026/event/0700635EA2AB6237",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Teddy Thompson",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/teddy-thompson-shank-hall-tickets/14930243",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Elevate ft. Insison",
+   "date": "2026-11-07",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/"
   }
  ]
 }
