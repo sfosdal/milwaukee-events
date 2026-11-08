@@ -1578,8 +1578,9 @@
    "venue": "Miramar Theatre",
    "title": "Elevate ft. Insison",
    "date": "2026-11-07",
-   "time": "21:00:00",
-   "url": "https://www.themiramartheatre.com/"
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/elevate/",
+   "type": "concert"
   }
  ]
 }
