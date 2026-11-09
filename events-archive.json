@@ -1581,6 +1581,75 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/elevate/",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Swan Lake: Symphony of Lights",
+   "date": "2026-11-08",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/swan-lake-nov-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Kurt Vile and The Violators",
+   "date": "2026-11-08",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/kurt-vile-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Milwaukee Ballet Presents: Mirror Mirror",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-ballet-presents-mirror-mirror-milwaukee-wisconsin-11-08-2026/event/070064D7BEFF5C5F",
+   "type": "arts"
+  },
+  {
+   "venue": "Bradley Symphony Center",
+   "title": "Dolly Parton???s Threads: My Songs in Symphony w/ Milwaukee Symphony Orchestra",
+   "date": "2026-11-08",
+   "time": "14:30:00",
+   "url": "https://www.mso.org/concerts/calendar/"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Nothing of Consequence / Farewell Moonlight / Wooden Ducks",
+   "date": "2026-11-08",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/08/nothingofconsequence",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Totally Cashed • Dyslexicon • Socially Suspect",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/totally-cashed-dyslexicon-socially-suspect/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Boston Celtics",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-boston-celtics-milwaukee-wisconsin-11-08-2026/event/07006507EB25DC0C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "Goose",
+   "date": "2026-11-08",
+   "time": "19:30:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "concert"
   }
  ]
 }
