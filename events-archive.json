@@ -1666,6 +1666,54 @@
    "time": "19:00",
    "url": "https://www.cactusclubmilwaukee.com/events/the-animeros/",
    "type": "concert"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Iowa Wild",
+   "date": "2026-11-10",
+   "time": "10:30:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-iowa-wild-milwaukee-wisconsin-11-10-2026/event/07006515F887E118",
+   "type": "sports"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Casual Sex • Mazoku • Ef Ay • Candlewax • Imperfect Picture • Babytino",
+   "date": "2026-11-10",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/casual-sex-mazuko-ef-ay-hallowbari-imperfect-picture-babytino/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Daniel Sloss: BITTER  (Brand New Tour!)",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.pabsttheatergroup.com/events/detail/daniel-sloss-2026",
+   "type": "arts"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Andrew Bird w/ Milwaukee Symphony Orchestra",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Amythyst Kiah with Buffalo Nichols",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/amythyst-kiah-with-buffalo-nichols-shank-hall-tickets/15043373",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "R&B Tuesday",
+   "date": "2026-11-10",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/rb-tuesday/",
+   "type": "concert"
   }
  ]
 }
