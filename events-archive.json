@@ -1714,6 +1714,52 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/rb-tuesday/",
    "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Micky Dolenz - 60 Years Of The Monkees",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/micky-dolenz-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Tyler Ballgame - For The First Time Again, On Tour",
+   "date": "2026-11-11",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/tyler-ballgame-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Ste Martaen \"No Clucks\" Vegan Pop-Up",
+   "date": "2026-11-11",
+   "time": "17:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/11/ste-martaen",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Los Angeles Lakers",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-los-angeles-lakers-milwaukee-wisconsin-11-11-2026/event/07006507EB2ADC22",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Allison Brown Quintet",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/allison-brown-quintet-shank-hall-tickets/14251154",
+   "type": "concert"
   }
  ]
 }
