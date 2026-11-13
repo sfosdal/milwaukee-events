@@ -1760,6 +1760,54 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/allison-brown-quintet-shank-hall-tickets/14251154",
    "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Peyton Parrish",
+   "date": "2026-11-12",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/peyton-parrish-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Alter Bridge",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8366",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Dead Gowns • Sleeper’s Bell",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/dead-gowns-sleepers-bell/",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Patrick Wolf / Friend of a Friend",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/12/patrickwolf",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Rachel Maddow",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Michelle Branch",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
   }
  ]
 }
