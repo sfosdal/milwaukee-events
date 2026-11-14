@@ -1808,6 +1808,157 @@
    "time": "20:00:00",
    "url": "https://pabsttheater.org/",
    "type": "concert"
+  },
+  {
+   "venue": "Wisconsin State Fair Park",
+   "title": "Swim Spa, Hot Tub & Sauna Show",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://800spasale.com/",
+   "type": "community"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Charles Wesley Godwin - The Christian Name Tour",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/charles-wesley-godwin-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Nova Linea Presents: Clarity and Connection",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.marcuscenter.org/event/nova-linea-clarity-and-connection/",
+   "type": "arts"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "Bingo Loco presents Name That Song",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/bingo-loco-nov-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Hovvdy",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/hovvdy-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Psycroptic / Inferi / Cognitive / Summoning the Lich",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/13/pyscroptic",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Allison Mahal (EP Release Show) • Leah Jean • Whitney Fenimore",
+   "date": "2026-11-13",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/allison-mahal-ep-release-show-leah-jean-whitney-fenimore/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Motionless In White: The Sweat and Blood Tour",
+   "date": "2026-11-13",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/motionless-in-white-the-sweat-and-milwaukee-wisconsin-11-13-2026/event/070064BBB9735249",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Gravity & Other Myths",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/gravity-other-myths-milwaukee-wisconsin-11-13-2026/event/070064B4B4344E9A",
+   "type": "arts"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Nova Linea Contemporary Dance - Clarity And Connection",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/nova-linea-contemporary-dance-clarity-and-milwaukee-wisconsin-11-13-2026/event/07006530A9F14E5D",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rave",
+   "title": "3BallMTY",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8437",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Black Stone Cherry",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8460",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Bryan Andrews",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8402",
+   "type": "concert"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "The Best of Steve Martin and Martin Short",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://millerhighlifetheatre.com/event/the-best-of-steve-martin-and-martin-short/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Charles Wesley Godwin w/ Tyler Nance",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "The Mavericks",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Welshly Arms",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/welshly-arms-shank-hall-tickets/15036363",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "PHRVA",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/phrva/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Phrva",
+   "date": "2026-11-13",
+   "time": "21:00:00",
+   "url": "https://www.themiramartheatre.com/"
   }
  ]
 }
