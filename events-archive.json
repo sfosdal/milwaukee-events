@@ -1959,6 +1959,118 @@
    "date": "2026-11-13",
    "time": "21:00:00",
    "url": "https://www.themiramartheatre.com/"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "An Evening of RADIOHEAD performed by Android Paranoid",
+   "date": "2026-11-14",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/android-paranoid-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Admirals vs. Chicago Wolves",
+   "date": "2026-11-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-admirals-vs-chicago-wolves-milwaukee-wisconsin-11-14-2026/event/07006515F88CE122",
+   "type": "sports"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Arise and Fall of a Dilapidated Home • Frontega • Yolk • Mala Mala",
+   "date": "2026-11-14",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/arise-and-fall-of-a-dilapidated-home-frontega-yolk-mala-mala/",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Mustard Plug / Devon Kay & The Solutions / Meskales",
+   "date": "2026-11-14",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/15/mustard-plug",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Pentatonix: Christmas in the City Tour ",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/pentatonix-christmas-in-the-city-tour-milwaukee-wisconsin-11-14-2026/event/070064F5C7DE504C",
+   "type": "concert"
+  },
+  {
+   "venue": "Riverside Theater",
+   "title": "Jason Bonham's Led Zeppelin Evening",
+   "date": "2026-11-14",
+   "time": "19:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wilson Theater at Vogel Hall",
+   "title": "Nova Linea Contemporary Dance - Clarity And Connection",
+   "date": "2026-11-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/nova-linea-contemporary-dance-clarity-and-milwaukee-wisconsin-11-14-2026/event/07006530A9F54E61",
+   "type": "arts"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Rival Sons",
+   "date": "2026-11-14",
+   "time": "19:50",
+   "url": "https://www.therave.com/concert_details.asp?id=8392",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Kelsey Hart",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8447",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Brandi Carlile",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Damaged Justice with Hellbilly Deluxe",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/damaged-justice-with-hellbilly-deluxe-shank-hall-tickets/14985523",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "Slayground Mke Presents: Apocalypse",
+   "date": "2026-11-14",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/apocalypse/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "House Party.",
+   "date": "2026-11-14",
+   "time": "21:30",
+   "url": "https://www.therave.com/concert_details.asp?id=8462",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "93FEETOFSMOKE • Fats’e • Polearm • Selwyn",
+   "date": "2026-11-14",
+   "time": "22:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/93feetofsmoke-fatse-polearm/",
+   "type": "concert"
   }
  ]
 }
