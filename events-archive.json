@@ -2071,6 +2071,84 @@
    "time": "22:00",
    "url": "https://www.cactusclubmilwaukee.com/events/93feetofsmoke-fatse-polearm/",
    "type": "concert"
+  },
+  {
+   "venue": "Turner Hall Ballroom",
+   "title": "The Wood Brothers",
+   "date": "2026-11-15",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/the-wood-brothers-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "Wild Kratts Live! 2.0",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Lightris / Sero / ¡un1c0rnz1nth3grayv! & mycatatetfoutayobrainz Split Set / Foenem / Bullshit Nonsense / Left For Dead / Mochi Voodoo",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/15/grays-mama",
+   "type": "concert"
+  },
+  {
+   "venue": "Miller High Life Theatre",
+   "title": "The Wild Kratts Live!",
+   "date": "2026-11-15",
+   "time": "17:00:00",
+   "url": "https://www.millerhighlifetheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "LUCY (Cooper B. Handy) • Gods Wisdom • Creature Weather",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/lucy-cooper-b-handy/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "OMB Peezy",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://themiramartheatre.com/event/omb-peezy/",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Atlanta Hawks",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-atlanta-hawks-milwaukee-wisconsin-11-15-2026/event/07006507EAC4DB45",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   }
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "OMB Peezy - Ages 18+",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.themiramartheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Pabst Theater",
+   "title": "Brandi Carlile",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://pabsttheater.org/",
+   "type": "concert"
   }
  ]
 }
