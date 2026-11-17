@@ -2149,6 +2149,30 @@
    "time": "20:00:00",
    "url": "https://pabsttheater.org/",
    "type": "concert"
+  },
+  {
+   "venue": "Wisconsin State Fair Park",
+   "title": "Tree Ripe Fruit Co. 2026 Fall Citrus Shop",
+   "date": "2026-11-16",
+   "time": "",
+   "url": "https://www.tree-ripe.com",
+   "type": "community"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Sold Out! Spanish Love Songs / Kali Masi / Barely Civil",
+   "date": "2026-11-16",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/16/spanishlovesongs",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Porcelain • Zastava • Depression Nap",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/porcelain-zastava/",
+   "type": "concert"
   }
  ]
 }
