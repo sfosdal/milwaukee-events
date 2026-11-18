@@ -2173,6 +2173,38 @@
    "time": "19:00",
    "url": "https://www.cactusclubmilwaukee.com/events/porcelain-zastava/",
    "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Sap / Sludge Mother / Awannabe",
+   "date": "2026-11-17",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/17/sap",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Saosin",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8343",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "The Montvales • Creekbed Carter • Moldy Tates",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/the-montvales-creekbed-carter/",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "R&B Tuesday",
+   "date": "2026-11-17",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/rb-tuesday/",
+   "type": "concert"
   }
  ]
 }
