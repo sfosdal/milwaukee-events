@@ -2205,6 +2205,42 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/rb-tuesday/",
    "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Careful Gaze / Siniu / Newlywed / Nettlekiss",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/18/careful-gaze",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Marquette Golden Eagles Men's Basketball vs. Northern Illinois Huskies Mens Basketball",
+   "date": "2026-11-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/marquette-golden-eagles-mens-basketball-vs-milwaukee-wisconsin-11-18-2026/event/070065343557931D",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:13:59.279Z",
+    "from": 10
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Nicole Atkins",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "concert"
   }
  ]
 }
