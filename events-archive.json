@@ -2241,6 +2241,51 @@
    "time": "20:00:00",
    "url": "https://www.pabsttheatergroup.com/venues/vivarium",
    "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Ghostwoman / Croaker",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/19/ghostwoman",
+   "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Portland Trail Blazers",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-portland-trail-blazers-milwaukee-wisconsin-11-19-2026/event/07006507EACADB51",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:24:39.711Z",
+    "from": 26
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Squirrel Flower • Sour Widows",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/squirrel-flower-sour-widows/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Craig Finn",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "concert"
   }
  ]
 }
