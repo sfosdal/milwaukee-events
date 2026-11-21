@@ -2286,6 +2286,84 @@
    "time": "20:00:00",
    "url": "https://www.pabsttheatergroup.com/venues/vivarium",
    "type": "concert"
+  },
+  {
+   "venue": "Wisconsin State Fair Park",
+   "title": "Holiday Folk Fair International",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://folkfair.org/",
+   "type": "community"
+  },
+  {
+   "venue": "Vivarium",
+   "title": "Houses In Motion – perform the music of Talking Heads",
+   "date": "2026-11-20",
+   "time": "",
+   "url": "https://www.pabsttheatergroup.com/events/detail/houses-in-motion-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Packaging • Discus • Thyone",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/packaging/",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Geordie Kieffer/ Colin Bracewell",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/20/geordiekieffer",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Slaughter To Prevail",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8341",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Dax",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8356",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Lil Ed and the Blues Imperials",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/lil-ed-and-the-blues-shank-hall-tickets/14273574",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:14:02.888Z",
+    "from": 24.96
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "Gimme Gimme Disco",
+   "date": "2026-11-20",
+   "time": "20:30",
+   "url": "https://www.therave.com/concert_details.asp?id=8435",
+   "type": "concert"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "BOMMER w/ Vesum",
+   "date": "2026-11-20",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/bommer-vesum/",
+   "type": "concert"
   }
  ]
 }
