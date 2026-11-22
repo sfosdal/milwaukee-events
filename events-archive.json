@@ -2364,6 +2364,113 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/bommer-vesum/",
    "type": "concert"
+  },
+  {
+   "venue": "Todd Wehr Theater",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-21",
+   "time": "13:00:00",
+   "url": "https://www.marcuscenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "UW–Milwaukee Panther Arena",
+   "title": "Milwaukee Panthers Men's Basketball vs. St. Thomas University Men's Basketball",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-panthers-mens-basketball-vs-st-milwaukee-wisconsin-11-21-2026/event/07006537C5865A76",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "Todd Wehr Theater",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-21",
+   "time": "16:00:00",
+   "url": "https://www.marcuscenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "30+ Rave",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://themiramartheatre.com/event/30-rave-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Humbird • Bad Posture Club • Chris Rosenau",
+   "date": "2026-11-21",
+   "time": "18:30",
+   "url": "https://www.cactusclubmilwaukee.com/events/humbird/",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Home Free: Coming Home For The Holidays",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://shankhall.com/shows/821/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Jackson Dean",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8441",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Zingara",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8400",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Chan",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8434",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Rave Jesus – Rave Revival Fall Tour",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/rave-jesus-rave-revival-shank-hall-tickets/14291224",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:48.100Z",
+    "from": 24.96
+   }
+  },
+  {
+   "venue": "Vivarium",
+   "title": "The Dead Bolts",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.pabsttheatergroup.com/venues/vivarium",
+   "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Sad Boy Saturday #104",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/21/sadboy",
+   "type": "concert"
   }
  ]
 }
