@@ -2471,6 +2471,80 @@
    "time": "21:00",
    "url": "https://xrayarcade.com/calendar/2026/11/21/sadboy",
    "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Marquette Golden Eagles Men's Basketball vs. Chicago State Cougars Men's Basketball",
+   "date": "2026-11-22",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/marquette-golden-eagles-mens-basketball-vs-milwaukee-wisconsin-11-22-2026/event/07006534355D931F",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T01:29:02.548Z",
+    "from": 11
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Todd Wehr Theater",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-22",
+   "time": "13:00:00",
+   "url": "https://www.marcuscenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "Winter Street Angels Benefit Show",
+   "date": "2026-11-22",
+   "time": "14:30",
+   "url": "https://xrayarcade.com/calendar/2026/11/22/streetangels",
+   "type": "concert"
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Deadelijk",
+   "date": "2026-11-22",
+   "time": "15:00:00",
+   "url": "https://www.ticketweb.com/event/deadelijk-shank-hall-tickets/14297644",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:07.775Z",
+    "from": 19.3
+   }
+  },
+  {
+   "venue": "Todd Wehr Theater",
+   "title": "How the Grinch Stole Christmas",
+   "date": "2026-11-22",
+   "time": "16:00:00",
+   "url": "https://www.marcuscenter.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "JADY • Stephen Stanley • Hot Mess",
+   "date": "2026-11-22",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/jady/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Jady",
+   "date": "2026-11-22",
+   "time": "19:30:00",
+   "url": "https://www.cactusclubmilwaukee.com/",
+   "type": "concert"
   }
  ]
 }
