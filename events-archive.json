@@ -2545,6 +2545,14 @@
    "time": "19:30:00",
    "url": "https://www.cactusclubmilwaukee.com/",
    "type": "concert"
+  },
+  {
+   "venue": "X-Ray Arcade",
+   "title": "The Mainliners / The Nu-Viles / Jinksie",
+   "date": "2026-11-23",
+   "time": "18:00",
+   "url": "https://xrayarcade.com/calendar/2026/11/23/themainliners",
+   "type": "concert"
   }
  ]
 }
