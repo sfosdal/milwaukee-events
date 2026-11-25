@@ -2553,6 +2553,64 @@
    "time": "18:00",
    "url": "https://xrayarcade.com/calendar/2026/11/23/themainliners",
    "type": "concert"
+  },
+  {
+   "venue": "Cactus Club",
+   "title": "Sushi Cowboy • Crook & Company • The Precipitators",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.cactusclubmilwaukee.com/events/sushi-cowboy-crook-company-the-precipitators/",
+   "type": "concert"
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "The Sound of Music (Touring)",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-sound-of-music-touring-milwaukee-wisconsin-11-24-2026/event/0700651522622187",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:35:22.594Z",
+    "from": 209.88
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-11-24-2026/event/0700652FBB434181",
+   "tickets": {
+    "box": 49,
+    "resale": 0,
+    "checked": "2026-11-23T00:35:25.298Z",
+    "from": 20
+   }
+  },
+  {
+   "venue": "Shank Hall",
+   "title": "Ike Reilly",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/ike-reilly-shank-hall-tickets/14329514",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:30.409Z",
+    "from": 30.37
+   }
+  },
+  {
+   "venue": "Miramar Theatre",
+   "title": "R&B Tuesday",
+   "date": "2026-11-24",
+   "time": "21:00",
+   "url": "https://themiramartheatre.com/event/rb-tuesday/",
+   "type": "concert"
   }
  ]
 }
