@@ -2611,6 +2611,71 @@
    "time": "21:00",
    "url": "https://themiramartheatre.com/event/rb-tuesday/",
    "type": "concert"
+  },
+  {
+   "venue": "Fiserv Forum",
+   "title": "Milwaukee Bucks vs. Brooklyn Nets",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milwaukee-bucks-vs-brooklyn-nets-milwaukee-wisconsin-11-25-2026/event/07006507EAD0DB5B",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "MyMi",
+     "Bucks App"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:44:40.123Z",
+    "from": 16
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "The Sound of Music (Touring)",
+   "date": "2026-11-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-sound-of-music-touring-milwaukee-wisconsin-11-25-2026/event/0700651522672193",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:45:00.222Z",
+    "from": 88.25
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Uihlein Hall",
+   "title": "Broadway Bites - Pre Show Dining",
+   "date": "2026-11-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/broadway-bites-pre-show-dining-milwaukee-wisconsin-11-25-2026/event/0700652FBB47418C",
+   "tickets": {
+    "box": 47,
+    "resale": 0,
+    "checked": "2026-11-23T00:45:03.946Z",
+    "from": 20
+   }
+  },
+  {
+   "venue": "The Rave",
+   "title": "VonOff1700",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8494",
+   "type": "concert"
+  },
+  {
+   "venue": "The Rave",
+   "title": "Punchis Punchis Banda Rave Experience",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://www.therave.com/concert_details.asp?id=8448",
+   "type": "concert"
   }
  ]
 }
